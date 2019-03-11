@@ -11,6 +11,7 @@
 // about supported directives.
 //
 //= require jquery
+//= require wrong_place_wrong_time
 //= require jquery_ujs
 //= require turbolinks
 //= require alert_maker
